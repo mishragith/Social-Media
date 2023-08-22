@@ -16,6 +16,3 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![tailwindcss](https://img.shields.io/badge/tailwind_css-0A66C2?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Tutorial Link
-
-[Javascript Mastery](https://youtu.be/VsUzmlZfYNg)
